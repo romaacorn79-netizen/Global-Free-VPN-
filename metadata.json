@@ -1,0 +1,6 @@
+{
+  "name": "Global Free VPN",
+  "description": "Connect to free worldwide secure VPN servers with real-time speed monitoring, OpenVPN and WireGuard configuration export, DNS leak protection, and interactive world server map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
